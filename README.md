@@ -5,6 +5,4 @@ To run:
     run this command from the BudgetBuddy directory
     "java main.Main"
     
-    
-    
-    Originally published at: https://github.com/wheelerchristopherg/BudgetBuddy
+Originally published at: https://github.com/wheelerchristopherg/BudgetBuddy
